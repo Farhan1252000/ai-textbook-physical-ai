@@ -7,10 +7,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://ai-textbook-physical-ai.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages deployment, it's usually '/<org-name>/<repo-name>'
-  baseUrl: '/ai-textbook-physical-ai/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'user', // Usually your GitHub org/user name.
