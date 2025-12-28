@@ -1,0 +1,20 @@
+/**
+ * Copyright (c) AI Textbook Team
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.docsMain {
+  flex-grow: 1;
+}
+
+@media (min-width: 997px) {
+  .docsMain {
+    max-width: calc(100% - var(--doc-sidebar-width));
+  }
+
+  .docsMain.docsMainEnhanced {
+    max-width: calc(100% - var(--doc-sidebar-width) - var(--doc-sidebar-hidden-width));
+  }
+}

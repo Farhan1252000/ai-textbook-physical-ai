@@ -1,0 +1,96 @@
+{
+  "/ai-textbook-physical-ai/__docusaurus/debug-29c": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/config-4ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/content-594": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    },
+    "allContent": "allContent---ai-textbook-physical-ai-docusaurus-debug-content-246-d56"
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/globalData-7e9": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/metadata-774": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/registry-13a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/__docusaurus/debug/routes-442": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docusaurus-debug-5-a-1-28f"
+    }
+  },
+  "/ai-textbook-physical-ai/textbook-2f4": {
+    "__comp": "__comp---site-src-pages-textbook-js-985-8dd",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-textbookdc-7-fc5"
+    },
+    "config": "config---ai-textbook-physical-ai-textbook-5-e-9-629"
+  },
+  "/ai-textbook-physical-ai/docs-c19": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-docs-609-62d"
+    }
+  },
+  "/ai-textbook-physical-ai/docs-b56": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---ai-textbook-physical-ai-docs-935-f32"
+  },
+  "/ai-textbook-physical-ai/docs-a06": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ai-textbook-physical-ai/docs/chapter-1-introduction-a47": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-chapter-1-introduction-788-d74"
+  },
+  "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals-555": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-chapter-2-physical-ai-fundamentalsf-1-c-74f"
+  },
+  "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics-9ed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-chapter-3-humanoid-robotics-basics-472-c57"
+  },
+  "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration-15c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-chapter-4-ai-robotics-integration-52-b-e55"
+  },
+  "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai-3b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-chapter-5-future-of-physical-aib-70-fc8"
+  },
+  "/ai-textbook-physical-ai/docs/intro-f67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ai-textbook-physical-ai-docs-intro-0-e-3-a53"
+  },
+  "/ai-textbook-physical-ai/-a17": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---ai-textbook-physical-ai-textbookdc-7-fc5"
+    },
+    "config": "config---ai-textbook-physical-ai-textbook-5-e-9-629"
+  }
+}

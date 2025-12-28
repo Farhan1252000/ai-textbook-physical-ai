@@ -1,0 +1,94 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction to Physical AI and Humanoid Robotics",
+        "href": "/ai-textbook-physical-ai/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Chapter 1: Introduction to Physical AI",
+        "href": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+        "docId": "chapter-1-introduction",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Chapter 2: Physical AI Fundamentals",
+        "href": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals",
+        "docId": "chapter-2-physical-ai-fundamentals",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Chapter 3: Humanoid Robotics Basics",
+        "href": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics",
+        "docId": "chapter-3-humanoid-robotics-basics",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Chapter 4: AI-Robotics Integration",
+        "href": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration",
+        "docId": "chapter-4-ai-robotics-integration",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "Chapter 5: Future of Physical AI",
+        "href": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai",
+        "docId": "chapter-5-future-of-physical-ai",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "chapter-1-introduction": {
+      "id": "chapter-1-introduction",
+      "title": "Chapter 1: Introduction to Physical AI",
+      "description": "What is Physical AI?",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-2-physical-ai-fundamentals": {
+      "id": "chapter-2-physical-ai-fundamentals",
+      "title": "Chapter 2: Physical AI Fundamentals",
+      "description": "Core Principles of Physical AI",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-3-humanoid-robotics-basics": {
+      "id": "chapter-3-humanoid-robotics-basics",
+      "title": "Chapter 3: Humanoid Robotics Basics",
+      "description": "Introduction to Humanoid Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-4-ai-robotics-integration": {
+      "id": "chapter-4-ai-robotics-integration",
+      "title": "Chapter 4: AI-Robotics Integration",
+      "description": "The Convergence of AI and Robotics",
+      "sidebar": "tutorialSidebar"
+    },
+    "chapter-5-future-of-physical-ai": {
+      "id": "chapter-5-future-of-physical-ai",
+      "title": "Chapter 5: Future of Physical AI",
+      "description": "Emerging Trends and Technologies",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction to Physical AI and Humanoid Robotics",
+      "description": "Welcome to the AI Native Textbook for Physical AI and Humanoid Robotics. This comprehensive guide explores the intersection of artificial intelligence and physical systems, with a focus on humanoid robotics.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

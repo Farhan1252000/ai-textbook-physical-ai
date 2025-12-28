@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI and Humanoid Robotics",
+  "description": "Welcome to the AI Native Textbook for Physical AI and Humanoid Robotics. This comprehensive guide explores the intersection of artificial intelligence and physical systems, with a focus on humanoid robotics.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/ai-textbook-physical-ai/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1: Introduction to Physical AI",
+    "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction"
+  }
+}

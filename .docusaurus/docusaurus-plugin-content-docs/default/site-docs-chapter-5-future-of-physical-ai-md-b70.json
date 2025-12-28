@@ -1,0 +1,23 @@
+{
+  "id": "chapter-5-future-of-physical-ai",
+  "title": "Chapter 5: Future of Physical AI",
+  "description": "Emerging Trends and Technologies",
+  "source": "@site/docs/chapter-5-future-of-physical-ai.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-5-future-of-physical-ai",
+  "permalink": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-5-future-of-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 4: AI-Robotics Integration",
+    "permalink": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration"
+  }
+}

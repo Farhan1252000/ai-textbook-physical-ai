@@ -1,0 +1,29 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.textbookHero {
+  padding: 3rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.textbookMain {
+  flex: 1;
+}
+
+.chapterCard {
+  margin-bottom: 2rem;
+}
+
+@media screen and (max-width: 996px) {
+  .textbookHero {
+    padding: 2rem 0;
+  }
+
+  .chapterCard {
+    margin-bottom: 1.5rem;
+  }
+}

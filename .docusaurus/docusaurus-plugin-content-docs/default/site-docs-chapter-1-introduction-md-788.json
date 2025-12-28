@@ -1,0 +1,27 @@
+{
+  "id": "chapter-1-introduction",
+  "title": "Chapter 1: Introduction to Physical AI",
+  "description": "What is Physical AI?",
+  "source": "@site/docs/chapter-1-introduction.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-1-introduction",
+  "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-1-introduction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to Physical AI and Humanoid Robotics",
+    "permalink": "/ai-textbook-physical-ai/docs/intro"
+  },
+  "next": {
+    "title": "Chapter 2: Physical AI Fundamentals",
+    "permalink": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ai-textbook-physical-ai/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ai-textbook-physical-ai/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chapter-1-introduction",
+              "path": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2-physical-ai-fundamentals",
+              "path": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3-humanoid-robotics-basics",
+              "path": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-4-ai-robotics-integration",
+              "path": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-5-future-of-physical-ai",
+              "path": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ai-textbook-physical-ai/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ai-textbook-physical-ai/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
