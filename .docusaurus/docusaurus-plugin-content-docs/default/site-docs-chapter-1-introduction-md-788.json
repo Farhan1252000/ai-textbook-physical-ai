@@ -5,7 +5,7 @@
   "source": "@site/docs/chapter-1-introduction.md",
   "sourceDirName": ".",
   "slug": "/chapter-1-introduction",
-  "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+  "permalink": "/docs/chapter-1-introduction",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-1-introduction.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction to Physical AI and Humanoid Robotics",
-    "permalink": "/ai-textbook-physical-ai/docs/intro"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Chapter 2: Physical AI Fundamentals",
-    "permalink": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals"
+    "permalink": "/docs/chapter-2-physical-ai-fundamentals"
   }
 }

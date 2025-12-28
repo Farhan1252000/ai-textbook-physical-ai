@@ -3,90 +3,55 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug', '29c'),
+    path: '/textbook',
+    component: ComponentCreator('/textbook', '531'),
     exact: true
   },
   {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/config',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/config', '4ba'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/content',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/content', '594'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/globalData',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/globalData', '7e9'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/metadata',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/metadata', '774'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/registry',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/registry', '13a'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/__docusaurus/debug/routes',
-    component: ComponentCreator('/ai-textbook-physical-ai/__docusaurus/debug/routes', '442'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/textbook',
-    component: ComponentCreator('/ai-textbook-physical-ai/textbook', '2f4'),
-    exact: true
-  },
-  {
-    path: '/ai-textbook-physical-ai/docs',
-    component: ComponentCreator('/ai-textbook-physical-ai/docs', 'c19'),
+    path: '/docs',
+    component: ComponentCreator('/docs', '237'),
     routes: [
       {
-        path: '/ai-textbook-physical-ai/docs',
-        component: ComponentCreator('/ai-textbook-physical-ai/docs', 'b56'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '416'),
         routes: [
           {
-            path: '/ai-textbook-physical-ai/docs',
-            component: ComponentCreator('/ai-textbook-physical-ai/docs', 'a06'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '1f1'),
             routes: [
               {
-                path: '/ai-textbook-physical-ai/docs/chapter-1-introduction',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/chapter-1-introduction', 'a47'),
+                path: '/docs/chapter-1-introduction',
+                component: ComponentCreator('/docs/chapter-1-introduction', '349'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals', '555'),
+                path: '/docs/chapter-2-physical-ai-fundamentals',
+                component: ComponentCreator('/docs/chapter-2-physical-ai-fundamentals', 'aa6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics', '9ed'),
+                path: '/docs/chapter-3-humanoid-robotics-basics',
+                component: ComponentCreator('/docs/chapter-3-humanoid-robotics-basics', '358'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration', '15c'),
+                path: '/docs/chapter-4-ai-robotics-integration',
+                component: ComponentCreator('/docs/chapter-4-ai-robotics-integration', '8a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai', '3b4'),
+                path: '/docs/chapter-5-future-of-physical-ai',
+                component: ComponentCreator('/docs/chapter-5-future-of-physical-ai', '086'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/ai-textbook-physical-ai/docs/intro',
-                component: ComponentCreator('/ai-textbook-physical-ai/docs/intro', 'f67'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -97,8 +62,8 @@ export default [
     ]
   },
   {
-    path: '/ai-textbook-physical-ai/',
-    component: ComponentCreator('/ai-textbook-physical-ai/', 'a17'),
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
     exact: true
   },
   {

@@ -9,8 +9,8 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/ai-textbook-physical-ai/docs",
-          "tagsPath": "/ai-textbook-physical-ai/docs/tags",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
           "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs",
           "editUrlLocalized": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
@@ -26,7 +26,7 @@
               "source": "@site/docs/chapter-1-introduction.md",
               "sourceDirName": ".",
               "slug": "/chapter-1-introduction",
-              "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+              "permalink": "/docs/chapter-1-introduction",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-1-introduction.md",
@@ -39,11 +39,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Introduction to Physical AI and Humanoid Robotics",
-                "permalink": "/ai-textbook-physical-ai/docs/intro"
+                "permalink": "/docs/intro"
               },
               "next": {
                 "title": "Chapter 2: Physical AI Fundamentals",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals"
+                "permalink": "/docs/chapter-2-physical-ai-fundamentals"
               }
             },
             {
@@ -53,7 +53,7 @@
               "source": "@site/docs/chapter-2-physical-ai-fundamentals.md",
               "sourceDirName": ".",
               "slug": "/chapter-2-physical-ai-fundamentals",
-              "permalink": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals",
+              "permalink": "/docs/chapter-2-physical-ai-fundamentals",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-2-physical-ai-fundamentals.md",
@@ -66,11 +66,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 1: Introduction to Physical AI",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction"
+                "permalink": "/docs/chapter-1-introduction"
               },
               "next": {
                 "title": "Chapter 3: Humanoid Robotics Basics",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics"
+                "permalink": "/docs/chapter-3-humanoid-robotics-basics"
               }
             },
             {
@@ -80,7 +80,7 @@
               "source": "@site/docs/chapter-3-humanoid-robotics-basics.md",
               "sourceDirName": ".",
               "slug": "/chapter-3-humanoid-robotics-basics",
-              "permalink": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics",
+              "permalink": "/docs/chapter-3-humanoid-robotics-basics",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-3-humanoid-robotics-basics.md",
@@ -93,11 +93,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 2: Physical AI Fundamentals",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals"
+                "permalink": "/docs/chapter-2-physical-ai-fundamentals"
               },
               "next": {
                 "title": "Chapter 4: AI-Robotics Integration",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration"
+                "permalink": "/docs/chapter-4-ai-robotics-integration"
               }
             },
             {
@@ -107,7 +107,7 @@
               "source": "@site/docs/chapter-4-ai-robotics-integration.md",
               "sourceDirName": ".",
               "slug": "/chapter-4-ai-robotics-integration",
-              "permalink": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration",
+              "permalink": "/docs/chapter-4-ai-robotics-integration",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-4-ai-robotics-integration.md",
@@ -120,11 +120,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 3: Humanoid Robotics Basics",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics"
+                "permalink": "/docs/chapter-3-humanoid-robotics-basics"
               },
               "next": {
                 "title": "Chapter 5: Future of Physical AI",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai"
+                "permalink": "/docs/chapter-5-future-of-physical-ai"
               }
             },
             {
@@ -134,7 +134,7 @@
               "source": "@site/docs/chapter-5-future-of-physical-ai.md",
               "sourceDirName": ".",
               "slug": "/chapter-5-future-of-physical-ai",
-              "permalink": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai",
+              "permalink": "/docs/chapter-5-future-of-physical-ai",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-5-future-of-physical-ai.md",
@@ -147,7 +147,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Chapter 4: AI-Robotics Integration",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration"
+                "permalink": "/docs/chapter-4-ai-robotics-integration"
               }
             },
             {
@@ -157,7 +157,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/ai-textbook-physical-ai/docs/intro",
+              "permalink": "/docs/intro",
               "draft": false,
               "unlisted": false,
               "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/intro.md",
@@ -170,7 +170,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Chapter 1: Introduction to Physical AI",
-                "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction"
+                "permalink": "/docs/chapter-1-introduction"
               }
             }
           ],
@@ -213,7 +213,7 @@
       "blogPosts": [],
       "blogListPaginated": [],
       "blogTags": {},
-      "blogTagsListPath": "/ai-textbook-physical-ai/blog/tags",
+      "blogTagsListPath": "/blog/tags",
       "blogTagsPaginated": []
     }
   },
@@ -221,12 +221,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/ai-textbook-physical-ai/",
+        "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "jsx",
-        "permalink": "/ai-textbook-physical-ai/textbook",
+        "permalink": "/textbook",
         "source": "@site/src/pages/textbook.js"
       }
     ]

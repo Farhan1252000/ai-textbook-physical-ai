@@ -5,7 +5,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/ai-textbook-physical-ai/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/intro.md",
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Chapter 1: Introduction to Physical AI",
-    "permalink": "/ai-textbook-physical-ai/docs/chapter-1-introduction"
+    "permalink": "/docs/chapter-1-introduction"
   }
 }

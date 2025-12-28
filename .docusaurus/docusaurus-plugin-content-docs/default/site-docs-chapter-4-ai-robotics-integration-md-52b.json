@@ -5,7 +5,7 @@
   "source": "@site/docs/chapter-4-ai-robotics-integration.md",
   "sourceDirName": ".",
   "slug": "/chapter-4-ai-robotics-integration",
-  "permalink": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration",
+  "permalink": "/docs/chapter-4-ai-robotics-integration",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/your-username/ai-textbook-physical-ai/tree/main/docusaurus/docs/chapter-4-ai-robotics-integration.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Chapter 3: Humanoid Robotics Basics",
-    "permalink": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics"
+    "permalink": "/docs/chapter-3-humanoid-robotics-basics"
   },
   "next": {
     "title": "Chapter 5: Future of Physical AI",
-    "permalink": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai"
+    "permalink": "/docs/chapter-5-future-of-physical-ai"
   }
 }

@@ -12,42 +12,42 @@
       {
         "type": "link",
         "label": "Introduction to Physical AI and Humanoid Robotics",
-        "href": "/ai-textbook-physical-ai/docs/intro",
+        "href": "/docs/intro",
         "docId": "intro",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Chapter 1: Introduction to Physical AI",
-        "href": "/ai-textbook-physical-ai/docs/chapter-1-introduction",
+        "href": "/docs/chapter-1-introduction",
         "docId": "chapter-1-introduction",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Chapter 2: Physical AI Fundamentals",
-        "href": "/ai-textbook-physical-ai/docs/chapter-2-physical-ai-fundamentals",
+        "href": "/docs/chapter-2-physical-ai-fundamentals",
         "docId": "chapter-2-physical-ai-fundamentals",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Chapter 3: Humanoid Robotics Basics",
-        "href": "/ai-textbook-physical-ai/docs/chapter-3-humanoid-robotics-basics",
+        "href": "/docs/chapter-3-humanoid-robotics-basics",
         "docId": "chapter-3-humanoid-robotics-basics",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Chapter 4: AI-Robotics Integration",
-        "href": "/ai-textbook-physical-ai/docs/chapter-4-ai-robotics-integration",
+        "href": "/docs/chapter-4-ai-robotics-integration",
         "docId": "chapter-4-ai-robotics-integration",
         "unlisted": false
       },
       {
         "type": "link",
         "label": "Chapter 5: Future of Physical AI",
-        "href": "/ai-textbook-physical-ai/docs/chapter-5-future-of-physical-ai",
+        "href": "/docs/chapter-5-future-of-physical-ai",
         "docId": "chapter-5-future-of-physical-ai",
         "unlisted": false
       }

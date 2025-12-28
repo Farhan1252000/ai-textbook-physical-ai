@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkai_textbook_physical_ai=globalThis.webpackChunkai_textbook_physical_ai||[]).push([[287],{1966:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
